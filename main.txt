@@ -1,1 +1,6 @@
-
+We have used machine learning algorithms and applied that to predict our
+target value (in this case our target value is ozone O3. we have chosen ozone
+because it is one of the factors that are considered to measure air pollution
+level). We applied several machine learning algorithms and calculated the error
+generated on test data and tried to minimise the error using some parameter
+tuning.
